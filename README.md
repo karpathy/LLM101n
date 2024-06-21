@@ -33,6 +33,6 @@ Further topics to work into the progression above:
 - Programming languages: Assembly, C, Python
 - Data types: Integer, Float, String (ASCII, Unicode, UTF-8)
 - Tensor: shapes, views, strides, contiguous, ...
-- Deep Learning frameowrks: PyTorch, JAX
+- Deep Learning frameworks: PyTorch, JAX
 - Neural Net Architecture: GPT (1,2,3,4), Llama (RoPE, RMSNorm, GQA), MoE, ...
 - Multimodal: Images, Audio, Video, VQVAE, VQGAN, diffusion
