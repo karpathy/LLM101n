@@ -1,0 +1,3 @@
+# Distributed Computing
+- before diving into detail, its important to recognize how hard of a problem distributed computing is. You have a massive amount of data, GPUs, and CPUs, and you need to make sure they are all working together in harmony. This requires a lot of optimization around the communication speed between spaced out hardware. it has to travel through a really long wire compared to whats printed on the chip.
+- not only this but you need to fit a massive model across many instances of hardware. it costs 10s to 100s of millions of dollars to maintain everything and pay energy bills (at the datacenter level). there is a lot at stake so you better be sure your model is running as fast as possible on the distributed hardware. 

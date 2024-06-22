@@ -1,0 +1,5 @@
+# Bigram
+- in short, the **bigram model** is the worse language model you can build. "bi" means two. take the word "hello" for example. we start with a (start_token, "h"), then we have ("h", "e"), then ("e", "l"), then ("l", "l"), then ("l", "o"), and finally ("o", end_token). the bigram taps out when it figures out all the two and three letter words in the input text (only gets the context of the previous char and nothing else). if it sees an "o", chances are high it would predict an "f" next because of how common "of" appears in english text. we start with this simple bigram model to building some momentum and basic understanding of **language modeling**. 
+- lecture video: [Bigram Language Model](https://www.youtube.com/watch?v=PaCmpygFfXo&t)
+- I also touch on this in the "Let's build GPT: from scratch, in code, spelled out" (4.4M views now!)
+- incl. jupyter notebook for intuition
