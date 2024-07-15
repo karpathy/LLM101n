@@ -35,7 +35,7 @@ Further topics to work into the progression above:
 - Tensor: shapes, views, strides, contiguous, ...
 - Deep Learning frameowrks: PyTorch, JAX
 - Neural Net Architecture: GPT (1,2,3,4), Llama (RoPE, RMSNorm, GQA), MoE, ...
-- Multimodal: Images, Audio, Video, VQVAE, VQGAN, diffusion
+- Multimodal: Images, Audio, Video, VQVAE, VQGAN, diffusion model
 
 ---
 
